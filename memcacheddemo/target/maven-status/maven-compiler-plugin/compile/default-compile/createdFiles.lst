@@ -1,0 +1,7 @@
+com/example/memcacheddemo/Task.class
+com/example/memcacheddemo/MemCachierConfig.class
+com/example/memcacheddemo/CachedTaskRepository.class
+com/example/memcacheddemo/MemcacheddemoApplication.class
+com/example/memcacheddemo/TaskRepository.class
+com/example/memcacheddemo/TaskController.class
+com/example/memcacheddemo/TaskRepositoryImpl.class
